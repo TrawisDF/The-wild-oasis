@@ -61,7 +61,11 @@ Start the server
 This app was developed as part of the Udemy course "The Ultimate React Course 2023: React, Redux & More" by Jonas Smechmann-the guy who guiding me all along, teaching how to thinking in a larger-scale project.
 
 ## Contacts 
+
 tawid_kty@outlook.com
+
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/tawid-khantiyoo47/))
+
 Chaing Mai, Thailand 
+
 098-8847142
