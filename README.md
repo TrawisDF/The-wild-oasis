@@ -2,6 +2,22 @@
 
 A Single page application that allow only employee to manage cabins, guests activities including check-in, check-out. The dashboard show some statistics about booking history and upcoming
 
+## 🔗 Links
+
+#### Web application
+
+https://wild-oasis-tvs.vercel.app/
+
+#### Tester account
+
+    Email:test@example.com 
+
+    Password:tawid626
+    
+#### Demo
+![DemoGitHub](https://github.com/TrawisDF/The-wild-oasis/assets/134593322/4e966bb4-47e8-4762-bc69-10ad820f1dd3)
+
+
 ## Tech stacks
 
 - React.js
